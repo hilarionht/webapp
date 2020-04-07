@@ -1,0 +1,42 @@
+{
+    "header": {
+        "search": {
+            "PLACEHOLDER": "Escriba y presiona enter.."
+        }
+    },
+    "offsidebar": {
+        "setting": {
+            "SETTINGS": "Configuración"
+        }
+    },
+    "sidebar": {
+        "WELCOME": "Bienvenido",
+        "heading": {
+            "HEADER": "Cabecera Menu"
+        },
+        "nav": {
+            "SINGLEVIEW": "Vista Simple"
+        }
+    },
+    "dashboard": {
+        "WELCOME": "Bienvenido"
+    },
+    "form": {
+        "field": {
+            "REQUIRED": "El campo es requerido"
+        },
+        "fieldu": {
+            "ENTERUSER": "Ingrese nombre de usuario",
+            "ENTERPASS": "Ingrese password"
+        }
+    },
+    "frm": {
+        "field": {
+            "REQUIRED": "El campo es requerido"
+        },
+        "nav": {
+            "SINGLEVIEW": "Vista Simple"
+        }
+    }
+
+}

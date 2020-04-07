@@ -1,0 +1,37 @@
+{
+    "header": {
+        "search": {
+            "PLACEHOLDER": "Type and hit enter.."
+        }
+    },
+    "offsidebar": {
+        "setting": {
+            "SETTINGS": "Settings"
+        }
+    },
+    "sidebar": {
+        "WELCOME": "Welcome",
+        "heading": {
+            "HEADER": "Menu Heading"
+        },
+        "nav": {
+            "SINGLEVIEW": "Single View"
+        }
+    },
+    "dashboard": {
+        "WELCOME": "Welcome"
+    },
+    "form": {
+        "field": {
+            "REQUIRED": "the field is required"
+        }
+    },
+    "frm": {
+        "field": {
+            "REQUIRED": "the field is required"
+        },
+        "nav": {
+            "SINGLEVIEW": "the field is required"
+        }
+    }
+}
